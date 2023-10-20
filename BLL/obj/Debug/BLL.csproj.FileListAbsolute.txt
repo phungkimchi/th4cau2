@@ -1,0 +1,100 @@
+D:\Lập trình ứng dụng window form\Đồ án 1 - BookStoreManagement\BookStoreManagement\BLL\bin\Debug\BLL.dll
+D:\Lập trình ứng dụng window form\Đồ án 1 - BookStoreManagement\BookStoreManagement\BLL\bin\Debug\BLL.pdb
+D:\Lập trình ứng dụng window form\Đồ án 1 - BookStoreManagement\BookStoreManagement\BLL\bin\Debug\DAL.dll
+D:\Lập trình ứng dụng window form\Đồ án 1 - BookStoreManagement\BookStoreManagement\BLL\bin\Debug\DTO.dll
+D:\Lập trình ứng dụng window form\Đồ án 1 - BookStoreManagement\BookStoreManagement\BLL\bin\Debug\DAL.pdb
+D:\Lập trình ứng dụng window form\Đồ án 1 - BookStoreManagement\BookStoreManagement\BLL\bin\Debug\DTO.pdb
+D:\Lập trình ứng dụng window form\Đồ án 1 - BookStoreManagement\BookStoreManagement\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Lập trình ứng dụng window form\Đồ án 1 - BookStoreManagement\BookStoreManagement\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Lập trình ứng dụng window form\Đồ án 1 - BookStoreManagement\BookStoreManagement\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Lập trình ứng dụng window form\Đồ án 1 - BookStoreManagement\BookStoreManagement\BLL\obj\Debug\BLL.dll
+D:\Lập trình ứng dụng window form\Đồ án 1 - BookStoreManagement\BookStoreManagement\BLL\obj\Debug\BLL.pdb
+D:\Lập trình ứng dụng window form\Đồ án 1 - BookStoreManagement\BookStoreManagement\BLL\bin\Debug\DAL.dll.config
+C:\Users\Admin\OneDrive\Máy tính\sql\Đồ án 1 - BookStoreManagement\BookStoreManagement\BLL\bin\Debug\BLL.dll
+C:\Users\Admin\OneDrive\Máy tính\sql\Đồ án 1 - BookStoreManagement\BookStoreManagement\BLL\bin\Debug\BLL.pdb
+C:\Users\Admin\OneDrive\Máy tính\sql\Đồ án 1 - BookStoreManagement\BookStoreManagement\BLL\bin\Debug\DAL.dll
+C:\Users\Admin\OneDrive\Máy tính\sql\Đồ án 1 - BookStoreManagement\BookStoreManagement\BLL\bin\Debug\DTO.dll
+C:\Users\Admin\OneDrive\Máy tính\sql\Đồ án 1 - BookStoreManagement\BookStoreManagement\BLL\bin\Debug\DAL.pdb
+C:\Users\Admin\OneDrive\Máy tính\sql\Đồ án 1 - BookStoreManagement\BookStoreManagement\BLL\bin\Debug\DAL.dll.config
+C:\Users\Admin\OneDrive\Máy tính\sql\Đồ án 1 - BookStoreManagement\BookStoreManagement\BLL\bin\Debug\DTO.pdb
+C:\Users\Admin\OneDrive\Máy tính\sql\Đồ án 1 - BookStoreManagement\BookStoreManagement\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\sql\Đồ án 1 - BookStoreManagement\BookStoreManagement\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\sql\Đồ án 1 - BookStoreManagement\BookStoreManagement\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Máy tính\sql\Đồ án 1 - BookStoreManagement\BookStoreManagement\BLL\obj\Debug\BLL.dll
+C:\Users\Admin\OneDrive\Máy tính\sql\Đồ án 1 - BookStoreManagement\BookStoreManagement\BLL\obj\Debug\BLL.pdb
+C:\sql\Đồ án 1 - BookStoreManagement\BookStoreManagement\BLL\bin\Debug\BLL.dll
+C:\sql\Đồ án 1 - BookStoreManagement\BookStoreManagement\BLL\bin\Debug\BLL.pdb
+C:\sql\Đồ án 1 - BookStoreManagement\BookStoreManagement\BLL\bin\Debug\DAL.dll
+C:\sql\Đồ án 1 - BookStoreManagement\BookStoreManagement\BLL\bin\Debug\DTO.dll
+C:\sql\Đồ án 1 - BookStoreManagement\BookStoreManagement\BLL\bin\Debug\DAL.pdb
+C:\sql\Đồ án 1 - BookStoreManagement\BookStoreManagement\BLL\bin\Debug\DAL.dll.config
+C:\sql\Đồ án 1 - BookStoreManagement\BookStoreManagement\BLL\bin\Debug\DTO.pdb
+C:\sql\Đồ án 1 - BookStoreManagement\BookStoreManagement\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\sql\Đồ án 1 - BookStoreManagement\BookStoreManagement\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\sql\Đồ án 1 - BookStoreManagement\BookStoreManagement\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\sql\Đồ án 1 - BookStoreManagement\BookStoreManagement\BLL\obj\Debug\BLL.dll
+C:\sql\Đồ án 1 - BookStoreManagement\BookStoreManagement\BLL\obj\Debug\BLL.pdb
+C:\BookStoreManagement\BLL\bin\Debug\BLL.dll
+C:\BookStoreManagement\BLL\bin\Debug\BLL.pdb
+C:\BookStoreManagement\BLL\bin\Debug\DAL.dll
+C:\BookStoreManagement\BLL\bin\Debug\DTO.dll
+C:\BookStoreManagement\BLL\bin\Debug\DAL.pdb
+C:\BookStoreManagement\BLL\bin\Debug\DAL.dll.config
+C:\BookStoreManagement\BLL\bin\Debug\DTO.pdb
+C:\BookStoreManagement\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\BookStoreManagement\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\BookStoreManagement\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\BookStoreManagement\BLL\obj\Debug\BLL.dll
+C:\BookStoreManagement\BLL\obj\Debug\BLL.pdb
+D:\BookStoreManagement\BLL\bin\Debug\BLL.dll
+D:\BookStoreManagement\BLL\bin\Debug\BLL.pdb
+D:\BookStoreManagement\BLL\bin\Debug\DAL.dll
+D:\BookStoreManagement\BLL\bin\Debug\DTO.dll
+D:\BookStoreManagement\BLL\bin\Debug\DAL.pdb
+D:\BookStoreManagement\BLL\bin\Debug\DAL.dll.config
+D:\BookStoreManagement\BLL\bin\Debug\DTO.pdb
+D:\BookStoreManagement\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\BookStoreManagement\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\BookStoreManagement\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\BookStoreManagement\BLL\obj\Debug\BLL.dll
+D:\BookStoreManagement\BLL\obj\Debug\BLL.pdb
+D:\BookStoreManagement\BLL\bin\Debug\EPPlus.dll
+D:\BookStoreManagement\BLL\bin\Debug\EPPlus.Interfaces.dll
+D:\BookStoreManagement\BLL\bin\Debug\EPPlus.System.Drawing.dll
+D:\BookStoreManagement\BLL\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\BookStoreManagement\BLL\bin\Debug\EPPlus.xml
+D:\BookStoreManagement\BLL\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\BLL\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\BLL\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\BLL\bin\Debug\nunit.engine.dll
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\BLL\bin\Debug\nunit.engine.api.dll
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\BLL\bin\Debug\nunit.engine.core.dll
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\BLL\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\BLL\bin\Debug\BLL.dll
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\BLL\bin\Debug\BLL.pdb
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\BLL\bin\Debug\Castle.Core.dll
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\BLL\bin\Debug\DAL.dll
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\BLL\bin\Debug\DTO.dll
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\BLL\bin\Debug\EPPlus.dll
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\BLL\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\BLL\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\BLL\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\BLL\bin\Debug\Moq.dll
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\BLL\bin\Debug\nunit.framework.dll
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\BLL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\BLL\bin\Debug\DAL.pdb
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\BLL\bin\Debug\DAL.dll.config
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\BLL\bin\Debug\DTO.pdb
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\BLL\bin\Debug\Castle.Core.xml
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\BLL\bin\Debug\EPPlus.xml
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\BLL\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\BLL\bin\Debug\Moq.xml
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\BLL\bin\Debug\nunit.framework.xml
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\BLL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\BLL\obj\Debug\BLL.dll
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\BLL\obj\Debug\BLL.pdb

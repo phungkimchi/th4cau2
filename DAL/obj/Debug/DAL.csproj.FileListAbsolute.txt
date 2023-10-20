@@ -1,0 +1,88 @@
+D:\Lập trình ứng dụng window form\Đồ án 1 - BookStoreManagement\BookStoreManagement\DAL\bin\Debug\DAL.dll
+D:\Lập trình ứng dụng window form\Đồ án 1 - BookStoreManagement\BookStoreManagement\DAL\bin\Debug\DAL.pdb
+D:\Lập trình ứng dụng window form\Đồ án 1 - BookStoreManagement\BookStoreManagement\DAL\bin\Debug\DTO.dll
+D:\Lập trình ứng dụng window form\Đồ án 1 - BookStoreManagement\BookStoreManagement\DAL\bin\Debug\DTO.pdb
+D:\Lập trình ứng dụng window form\Đồ án 1 - BookStoreManagement\BookStoreManagement\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Lập trình ứng dụng window form\Đồ án 1 - BookStoreManagement\BookStoreManagement\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Lập trình ứng dụng window form\Đồ án 1 - BookStoreManagement\BookStoreManagement\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Lập trình ứng dụng window form\Đồ án 1 - BookStoreManagement\BookStoreManagement\DAL\obj\Debug\DAL.dll
+D:\Lập trình ứng dụng window form\Đồ án 1 - BookStoreManagement\BookStoreManagement\DAL\obj\Debug\DAL.pdb
+D:\Lập trình ứng dụng window form\Đồ án 1 - BookStoreManagement\BookStoreManagement\DAL\bin\Debug\DAL.dll.config
+C:\Users\Admin\OneDrive\Máy tính\sql\Đồ án 1 - BookStoreManagement\BookStoreManagement\DAL\bin\Debug\DAL.dll.config
+C:\Users\Admin\OneDrive\Máy tính\sql\Đồ án 1 - BookStoreManagement\BookStoreManagement\DAL\bin\Debug\DAL.dll
+C:\Users\Admin\OneDrive\Máy tính\sql\Đồ án 1 - BookStoreManagement\BookStoreManagement\DAL\bin\Debug\DAL.pdb
+C:\Users\Admin\OneDrive\Máy tính\sql\Đồ án 1 - BookStoreManagement\BookStoreManagement\DAL\bin\Debug\DTO.dll
+C:\Users\Admin\OneDrive\Máy tính\sql\Đồ án 1 - BookStoreManagement\BookStoreManagement\DAL\bin\Debug\DTO.pdb
+C:\Users\Admin\OneDrive\Máy tính\sql\Đồ án 1 - BookStoreManagement\BookStoreManagement\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\sql\Đồ án 1 - BookStoreManagement\BookStoreManagement\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\sql\Đồ án 1 - BookStoreManagement\BookStoreManagement\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Máy tính\sql\Đồ án 1 - BookStoreManagement\BookStoreManagement\DAL\obj\Debug\DAL.dll
+C:\Users\Admin\OneDrive\Máy tính\sql\Đồ án 1 - BookStoreManagement\BookStoreManagement\DAL\obj\Debug\DAL.pdb
+C:\sql\Đồ án 1 - BookStoreManagement\BookStoreManagement\DAL\bin\Debug\DAL.dll.config
+C:\sql\Đồ án 1 - BookStoreManagement\BookStoreManagement\DAL\bin\Debug\DAL.dll
+C:\sql\Đồ án 1 - BookStoreManagement\BookStoreManagement\DAL\bin\Debug\DAL.pdb
+C:\sql\Đồ án 1 - BookStoreManagement\BookStoreManagement\DAL\bin\Debug\DTO.dll
+C:\sql\Đồ án 1 - BookStoreManagement\BookStoreManagement\DAL\bin\Debug\DTO.pdb
+C:\sql\Đồ án 1 - BookStoreManagement\BookStoreManagement\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\sql\Đồ án 1 - BookStoreManagement\BookStoreManagement\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\sql\Đồ án 1 - BookStoreManagement\BookStoreManagement\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\sql\Đồ án 1 - BookStoreManagement\BookStoreManagement\DAL\obj\Debug\DAL.dll
+C:\sql\Đồ án 1 - BookStoreManagement\BookStoreManagement\DAL\obj\Debug\DAL.pdb
+C:\BookStoreManagement\DAL\bin\Debug\DAL.dll.config
+C:\BookStoreManagement\DAL\bin\Debug\DAL.dll
+C:\BookStoreManagement\DAL\bin\Debug\DAL.pdb
+C:\BookStoreManagement\DAL\bin\Debug\DTO.dll
+C:\BookStoreManagement\DAL\bin\Debug\DTO.pdb
+C:\BookStoreManagement\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\BookStoreManagement\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\BookStoreManagement\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\BookStoreManagement\DAL\obj\Debug\DAL.dll
+C:\BookStoreManagement\DAL\obj\Debug\DAL.pdb
+D:\BookStoreManagement\DAL\bin\Debug\DAL.dll.config
+D:\BookStoreManagement\DAL\bin\Debug\DAL.dll
+D:\BookStoreManagement\DAL\bin\Debug\DAL.pdb
+D:\BookStoreManagement\DAL\bin\Debug\DTO.dll
+D:\BookStoreManagement\DAL\bin\Debug\DTO.pdb
+D:\BookStoreManagement\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\BookStoreManagement\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\BookStoreManagement\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\BookStoreManagement\DAL\obj\Debug\DAL.dll
+D:\BookStoreManagement\DAL\obj\Debug\DAL.pdb
+D:\BookStoreManagement\DAL\bin\Debug\EPPlus.dll
+D:\BookStoreManagement\DAL\bin\Debug\EPPlus.Interfaces.dll
+D:\BookStoreManagement\DAL\bin\Debug\EPPlus.System.Drawing.dll
+D:\BookStoreManagement\DAL\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\BookStoreManagement\DAL\bin\Debug\EPPlus.xml
+D:\BookStoreManagement\DAL\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\DAL\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\DAL\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\DAL\bin\Debug\nunit.engine.dll
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\DAL\bin\Debug\nunit.engine.api.dll
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\DAL\bin\Debug\nunit.engine.core.dll
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\DAL\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\DAL\bin\Debug\DAL.dll.config
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\DAL\bin\Debug\DAL.dll
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\DAL\bin\Debug\DAL.pdb
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\DAL\bin\Debug\Castle.Core.dll
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\DAL\bin\Debug\DTO.dll
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\DAL\bin\Debug\EPPlus.dll
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\DAL\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\DAL\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\DAL\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\DAL\bin\Debug\Moq.dll
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\DAL\bin\Debug\nunit.framework.dll
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\DAL\bin\Debug\DTO.pdb
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\DAL\bin\Debug\Castle.Core.xml
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\DAL\bin\Debug\EPPlus.xml
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\DAL\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\DAL\bin\Debug\Moq.xml
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\DAL\bin\Debug\nunit.framework.xml
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\DAL\obj\Debug\DAL.dll
+C:\Users\Admin\Downloads\Đồ án 1\BookStoreManagement\DAL\obj\Debug\DAL.pdb
